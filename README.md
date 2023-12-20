@@ -12,9 +12,19 @@
 
 <br>
 
-- Me apasiona las nuevas tecnologias
-<!-- - Playing CTF's at spare time
-- Currently learning Web Development by Self
+
+- Systems engineer
+- Learn new technologies in free time.
+- Ability to work as a team and collaborate with other IT professionals.
+- Ability to analyze problems and find efficient and effective solutions.
+- History of success in the development and maintenance of applications and systems.
+- Focus on creating high-quality and easy-to-maintain solutions.
+
+<!-- - Ingenieria de Sistemas
+- Aprender nuevas tecnologias en tiempo libre
+- Capacidad para trabajar en equipo y colaborar con otros profesionales de TI.
+- Habilidad para analizar problemas y encontrar soluciones eficientes y efectivas.
+- Historial de éxito en el desarrollo y mantenimiento de aplicaciones y sistemas.
 - Personal website [link](https://www.dennisqc.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/dennisqc) -->
 
@@ -27,6 +37,17 @@
 <br>
 
 <p align="center">
+
+
+- **Database**:
+
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)&nbsp;
+
+<br>
 
 - **Languages**:
 
@@ -49,15 +70,7 @@
 
 <br>
     
-- **Database**:
 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)&nbsp;
-
-<br>
 
 - **Cloud Hosting**:
 
