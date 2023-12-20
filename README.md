@@ -6,7 +6,7 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/dennisqc/dennisqc/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/dennisqc/dennisqc/raw/master/assets/gif/about_me.gif" width = 50px></picture> **About me**
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 
@@ -88,7 +88,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/dennisqc/dennisqc/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/dennisqc/dennisqc/raw/master/assets/gif/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -137,4 +137,4 @@
 
 Credit: [Dennis Quispe](https://github.com/dennisqc)
 
-Last Edited on: 09/11/2023
+Last Edited on: 20/12/2023
