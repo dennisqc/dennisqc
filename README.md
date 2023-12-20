@@ -126,20 +126,20 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/dennisqc" target="_blank">
+<a href="www.linkedin.com/in/dennis-qc92931b124" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  DennisQuispe-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
-<li>
+<!-- <li>
 <a href="https://twitter.com/dennisqc" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  DennisQuispe-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
-<br>
+<br> -->
 
 <li>
 <a href="mailto:dennisquispe72@gmail.com" target="_blank">
