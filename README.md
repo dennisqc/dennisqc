@@ -147,13 +147,13 @@
 
 <br>
 
-<!-- <li>
+<li>
 <a href="https://twitter.com/dennisqc" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  DennisQuispe-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  DennisQuispe-%2300acee.svg?color=25D366&style=for-the-badge&logo=twitter&logoColor=white" alt=whatsapp style="margin-bottom: 5px;"/>
 </a>
 </li>
 
-<br> -->
+<br>
 
 <li>
 <a href="mailto:dennisquispe72@gmail.com" target="_blank">
