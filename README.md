@@ -149,8 +149,7 @@
 
 <li>
 <a href="https://wa.link/553wgw" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp%3A%20%20DennisQuispe-badge_red?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366
-" alt=whatsapp style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/whatsapp%3A%20%20DennisQuispe-badge_red?style=for-the-badge&logo=whatsapp&logoColor=white&color=25D366" alt=whatsapp style="margin-bottom: 5px;"/>
 </a>
 </li>
 
