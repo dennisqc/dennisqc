@@ -170,7 +170,7 @@
 
 <div align='center'>
 
-## <b>Si lo puedes imaginar lo puedes programar...✨</b>
+## <b>Si puedes imaginarlo, puedes programarlo...✨</b>
 
 </div>
 <br>
